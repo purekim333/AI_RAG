@@ -1,0 +1,27 @@
+정책 ID: R2024102827370
+정책명: 경남형 대중교통비 지원(경남K-패스)
+내용: 도민 대중교통비 절감 및 대중교통 이용 활성화
+세부 정보: ○ 월 15회(어르신 1회) 이상 대중교통 이용시 이용금액의 일정비율 환급
+- 청년(19~39세) 30%, 일반(40~74세) 20%, 어르신(75세↑) 100%, 저소득층 100%
+대상 연령: 만 19세 ~ 99세
+신청 기간: 
+상시신청
+신청 절차: ① 카드발급(은행 방문, 온라인 신청)
+- 은행 방문 : 농협, 신한, 국민, 우리, 하나, 기업은행 중 거래하는 은행에 방문하여 "K-패스 카드" 발급
+- 온라인 신청
+신한카드 : https://www.shinhancard.com/pconts/html/card/apply/check/1225544_2206.html
+농협카드 : https://smartcard.nonghyup.com/ScCc1010I.act?CD_WRS_SQNO=90010470
+국민카드 : https://m.kbcard.com/CRD/DVIEW/MCAMCXHIACRC0002?mainCC=b&allianceCode=09322
+삼성카드 : https://www.samsungcard.com/home/card/cardinfo/PGHPPCCCardCardinfoDetails001?code=ABP1800
+우리카드 : https://m.wooricard.com/dcmw/mobile/totSearch.do?searchTerm=K-패스&gubn=01&mGubn=M
+하나카드 : https://m.hanacard.co.kr/MKCDCM1000M.web?CD_PD_SEQ=17034
+BC(기업)카드 : https://cube.ibk.co.kr/ibs/index.jsp?MRKN_CRET_BRCD=0001&GRPCD=302&APCD=12113090852
+
+② K-패스 앱/홈페이지에서 회원가입
+- K-패스 앱
+(안드로이드) https://play.google.com/store/apps/details?id=kr.or.kotsa.watc
+(아이폰) https://apps.apple.com/app/apple-store/id1538531939
+- K-패스 홈페이지 : https://korea-pass.kr
+
+③ K-패스 카드로 대중교통 이용 → 이용 다음달 카드에 연결된 계좌로 자동 환급
+담당자 연락처: 055-211-4135
