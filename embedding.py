@@ -51,8 +51,7 @@ def initialize_vectorstore(persist_directory="./chroma_db", root_folder="policie
             api_key=UPSTAGE_API_KEY
         )
         print("Upstage Embeddings 초기화 완료")
-        # 메서드 확인
-        print(dir(upstage_embeddings))
+
     except Exception as e:
         print(f"Upstage Embeddings 초기화 실패: {e}")
         raise
