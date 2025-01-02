@@ -43,6 +43,6 @@
 
 ### 1. 클론 및 폴더 이동
 ```bash
-git clone https://github.com/jongchan0109/AI_RAG
+git clone https://github.com/purekim333/AI_RAG
 ```
 
